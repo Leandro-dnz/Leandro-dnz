@@ -1,6 +1,6 @@
 ### Olá! Eu sou Leandro Diniz
 
-💻 Cursando Análise e Desenvolvimento de Sistemas
+💻 Formado em Análise e Desenvolvimento de Sistemas
 
 ![color](https://user-images.githubusercontent.com/82003873/145729372-c018938d-098f-49ae-aa19-51e87af18906.gif)
 
