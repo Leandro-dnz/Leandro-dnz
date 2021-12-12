@@ -1,7 +1,10 @@
 ### Olá! Eu sou Leandro Diniz
 
 💻 Cursando Análise e Desenvolvimento de Sistemas
-
+<p align="center">
+  <img src="your_relative_path_here" width="350" title="hover text">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p>
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leandro-dnz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-dnz&layout=compact&langs_count=16&theme=dark"/>
