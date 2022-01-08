@@ -1,4 +1,4 @@
-### Olá! Eu sou Leandro Diniz
+### Olá! Eu sou Leandro Diniz👋
 
 💻 Formado em Análise e Desenvolvimento de Sistemas
 
