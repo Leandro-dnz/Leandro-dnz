@@ -1,9 +1,9 @@
 ### Olá! Eu sou Leandro Diniz
 
 💻 Formado em Análise e Desenvolvimento de Sistemas
-
-![color](https://user-images.githubusercontent.com/82003873/145729372-c018938d-098f-49ae-aa19-51e87af18906.gif)
-
+<div align = " center">
+![Front end](https://user-images.githubusercontent.com/82003873/148659724-7d2c4056-82b7-4061-8b64-caee7b2994ab.gif)
+<div/>
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leandro-dnz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-dnz&layout=compact&langs_count=16&theme=dark"/>
