@@ -2,7 +2,7 @@
 
 💻 Formado em Análise e Desenvolvimento de Sistemas
 
-<h1>![Front end](https://user-images.githubusercontent.com/82003873/148659724-7d2c4056-82b7-4061-8b64-caee7b2994ab.gif)<h1/>
+![Front end](https://user-images.githubusercontent.com/82003873/148659724-7d2c4056-82b7-4061-8b64-caee7b2994ab.gif)
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leandro-dnz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
