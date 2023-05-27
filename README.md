@@ -1,7 +1,7 @@
 ### Olá! Eu sou Leandro Diniz👋
 Olá! Sou um web designer apaixonado pela criação de experiências digitais incríveis e funcionais. Meu objetivo é combinar estética visual impressionante com usabilidade intuitiva para entregar projetos que encantam os usuários. Tenho experiência sólida em design responsivo, interfaces de usuário e desenvolvimento front-end.
 
-Habilidades:
+
 
 ![Front end](https://user-images.githubusercontent.com/82003873/148659724-7d2c4056-82b7-4061-8b64-caee7b2994ab.gif)
 
