@@ -1,5 +1,5 @@
 ### Olá! Eu sou Leandro Diniz👋
-Olá! Sou um web designer apaixonado pela criação de experiências digitais incríveis e funcionais. Meu objetivo é combinar estética visual impressionante com usabilidade intuitiva para entregar projetos que encantam os usuários. Tenho experiência sólida em design responsivo, interfaces de usuário e desenvolvimento front-end.
+Web Designer apaixonado pela criação de experiências digitais incríveis e funcionais. Meu objetivo é combinar estética visual impressionante com usabilidade intuitiva para entregar projetos que encantam os usuários. Tenho experiência sólida em design responsivo, interfaces de usuário e desenvolvimento front-end.
 
 
 
